@@ -225,7 +225,6 @@ python src/07_fix_data_dictionary.py
 ## Author
 
 - Robert Collins
-*
 
 Currently: Investment Management Administrator at Deloitte
 
