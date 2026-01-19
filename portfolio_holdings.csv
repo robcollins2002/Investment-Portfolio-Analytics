@@ -1,0 +1,15 @@
+Ticker,Asset_Name,Asset_Class,Shares,Purchase_Date,Purchase_Price
+AAPL,Apple Inc,Equity,150,15/01/2025,185.5
+MSFT,Microsoft Corp,Equity,120,15/01/2025,375.2
+GOOGL,Alphabet Inc,Equity,80,01/02/2025,142.3
+AMZN,Amazon.com Inc,Equity,100,01/02/2025,178.9
+NVDA,NVIDIA Corp,Equity,90,01/03/2025,720.4
+JPM,JPMorgan Chase,Equity,200,15/01/2025,168.5
+JNJ,Johnson & Johnson,Equity,180,20/01/2025,157.8
+V,Visa Inc,Equity,110,10/02/2025,272.3
+PG,Procter & Gamble,Equity,140,15/02/2025,158.9
+KO,Coca-Cola,Equity,250,01/03/2025,60.2
+SPY,SPDR S&P 500 ETF,ETF,100,15/01/2025,475.3
+QQQ,Invesco QQQ Trust,ETF,80,20/01/2025,395.8
+AGG,iShares Core US Aggregate Bond ETF,ETF,300,15/01/2025,98.5
+VTI,Vanguard Total Stock Market ETF,ETF,120,01/02/2025,235.6

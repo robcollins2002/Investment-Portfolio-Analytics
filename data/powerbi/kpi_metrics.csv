@@ -1,0 +1,9 @@
+Metric_Name,Metric_Value,Metric_Format
+Total Portfolio Value,526179.3036651611,Currency
+Total Cost Basis,433328.0,Currency
+Total Unrealized Gain,92851.30366516113,Currency
+Total Return,21.42748764565436,Percentage
+Number of Positions,14.0,Number
+Annualized Return,64.50250444084196,Percentage
+Sharpe Ratio,2.121231775498081,Number
+Maximum Drawdown,-17.174176009914856,Percentage
